@@ -1,1 +1,1 @@
-![title](./src/title.jfif)
+![title](./src/title.png)
