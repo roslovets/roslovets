@@ -1,1 +1,1 @@
-![./src/title.jfif](title)
+![title](./src/title.jfif)
