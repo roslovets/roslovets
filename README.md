@@ -14,3 +14,6 @@
   <a href="https://roslovets.github.io/videos">Videos</a> |
   <a href="https://roslovets.github.io/events">Events</a>
 </p>
+
+![Pavel's stats](https://github-readme-stats.vercel.app/api?username=roslovets&show_icons=true&theme=buefy&icon_color=d77676&title_color=817fd5&include_all_commits=true&custom_title=My%20GitHub%20Stats&line_height=27)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roslovets&theme=buefy&title_color=817fd5&langs_count=3)
